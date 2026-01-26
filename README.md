@@ -1,4 +1,4 @@
-# -ENG-SimpleJavaGame
+# Hunter and Good Man Game (Turn by Turn)
 
 ### UML
 
